@@ -67,9 +67,8 @@ The backend control panel (`legal_firm_admin.sh`) is designed to run in a Linux 
 ```bash
 jurisguard-sysadmin-suite/
 ├── legal_firm_admin.sh            # Production-ready interactive Bash automation script
-├── README.md                      # Comprehensive project documentation
-├── COMP2000-Assignment2025(1).pdf # Academic design guidelines and project requirements
-└── Comp2000 Computer Systems.pdf  # Comprehensive system setup & network architecture report
+├── LICENSE                        # Open-source MIT license details
+└── README.md                      # Comprehensive project documentation
 ```
 
 ---
@@ -118,8 +117,6 @@ The suite has been thoroughly audited across **20 rigorous test cases** in a vir
 ---
 
 ## ✒️ Authors & Contribution
-This system was designed and implemented by:
+This system was designed and implemented as an open-source collaboration by:
 *   **Ahmed Ali** - Systems Automation & Script Development
 *   **Mohammed Salem Omar Almashgari** - Systems Architecture & Technical Documentation
-
-*Developed as part of the Computer Systems (COMP2000) curriculum at Curtin University, School of EECMS.*
